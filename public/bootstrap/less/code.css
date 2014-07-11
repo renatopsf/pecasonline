@@ -1,0 +1,4 @@
+[7368:0711/174904:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[7368:0711/174904:ERROR:cache_util.cc(104)] Unable to move cache folder C:\Users\Renato\AppData\Local\Prepros-App\GPUCache to C:\Users\Renato\AppData\Local\Prepros-App\old_GPUCache_000
+[7368:0711/174904:ERROR:cache_creator.cc(115)] Unable to create cache
+[7368:0711/174904:ERROR:shader_disk_cache.cc(580)] Shader Cache Creation failed: -2
