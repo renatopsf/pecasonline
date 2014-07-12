@@ -9,14 +9,14 @@ $(function(){
         $('.pecas').delay(4000).fadeIn(2000);
          });
         var contagem = ('.contagem');
-        $(contagem).delay(6000).fadeIn(1000, function(){
+        $(contagem).delay(6000).fadeIn(500, function(){
         var count = 2;
             setInterval(function(){
             $(contagem).text(count);
                 if (count == 0){
                     $(contagem).text('GO!');
-                    window.location = 'localhost/projetos/php-oop/pecasonline/home';
-                    return false;
+                       // window.location = 'home';
+                        return false;
 
                 }
 
