@@ -1,3 +1,27 @@
+@import url(http://fonts.googleapis.com/css?family=Special+Elite);
 body.presentation {
-  background: black;
+  background-color: black;
+}
+body.presentation h1 {
+  font-family: 'Special Elite', cursive;
+  color: white;
+  text-align: center;
+  margin-top: 20%;
+  font-size: 60px;
+}
+body.presentation .seja {
+  display: none;
+}
+body.presentation .bem {
+  display: none;
+}
+body.presentation .vindo {
+  display: none;
+}
+.pecas {
+  font-family: 'Special Elite', cursive;
+  display: none;
+  text-align: center;
+  font-size: 60px;
+  color: white;
 }
