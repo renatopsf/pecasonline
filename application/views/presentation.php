@@ -10,6 +10,9 @@
 </head>
 
 <body class="presentation">
-<div id="solo">Olá Mundo</div>
+<div class="container">
+<h1 class="content row"><span class="seja">Seja </span><span class="bem">Bem </span><span class="vindo">Vindo</span>
+    <span class="content row pecas">a Auto Peças Online</span>
+</h1>
 </body>
 </html>
